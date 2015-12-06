@@ -1,4 +1,4 @@
-    # KreFolio v1
+    # Commercify v1
     Onepage, Responsive Bootstrap template. Have a look at [Demo](http://shapebootstrap.net/preview/?id=1394) hosted at [ShapeBootstrap](http://shapebootstrap.net/).
 
     ## Instructions

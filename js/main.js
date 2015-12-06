@@ -224,7 +224,7 @@ $(document).ready(function () {
     var marker = new google.maps.Marker({
         position: myLatlng,
         map: map,
-        title: 'KreFolio!'
+        title: 'Commercify!'
     });
   }
 
